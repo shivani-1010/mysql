@@ -1,0 +1,11 @@
+" idproduct","customer id","customer name",country,occupation,state,age,degree,grade,address
+0,1,riya,india,teacher,MH,34,BA,b+,kolkata
+3,2,manu,india,engg,MH,23,BE,a,pune
+4,3,soun,america,teacher,MH,25,DED,c,delhi
+2,4,neeta,india,doctor,MH,30,MBBS,a+,pune
+8,5,neha,india,teacher,MH,34,BSC,c,latur
+4,6,soham,india,doctor,MH,43,MBBS,d,nanded
+7,7,meena,america,engg,MH,25,B.TECH,b+,latur
+1,8,rita,india,NULL,MH,45,12,c,pune
+5,9,diya,india,writer,MH,22,MCA,a,kolkata
+10,10,pinku,america,cashier,MH,27,M.COM,a+,pune
